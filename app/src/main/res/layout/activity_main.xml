@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#E3F2FD"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🌍"
+        android:textSize="90sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tour Recommendation"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="#212121"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Explore India's Best Destinations"
+        android:textSize="18sp"
+        android:textColor="#616161"
+        android:layout_marginTop="8dp"/>
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="220dp"
+        android:layout_height="55dp"
+        android:text="Start Exploring"
+        android:textSize="18sp"
+        android:layout_marginTop="40dp"/>
+
+</LinearLayout>
