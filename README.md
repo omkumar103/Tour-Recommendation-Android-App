@@ -234,6 +234,10 @@ If you'd like to improve this project:
 
 💻 GitHub: https://github.com/omkumar103
 
+**Shristy Dhariwal**
+
+**Rohit Kumar**
+
 ---
 
 # ⭐ Support
