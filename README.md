@@ -238,6 +238,8 @@ If you'd like to improve this project:
 
 **Rohit Kumar**
 
+**Sahil Bhargava**
+
 ---
 
 # ⭐ Support
